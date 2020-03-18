@@ -4,4 +4,4 @@ Neste curso você aprenderá passo a passo como desenvolver um site completo, de
 
 Projeto prático Centro Boa forma feito em HTML5, animações com css3, Framework Materialize pelo site [NODESTUDIO](https://www.nodestudio.com.br/curso/curso-carreira-web-sites-profissionais).
 
-## Link do Projeto: [Centro Boa Forma](https://marcelo-rafael.github.io/hotel-paraiso/)
+## Link do Projeto: [Centro Boa Forma](https://marcelo-rafael.github.io/centro-boa-forma/)
